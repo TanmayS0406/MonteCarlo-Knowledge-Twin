@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MonteCarlo.Api/MonteCarlo.Api.csproj" />
+    <Project Path="src/MonteCarlo.Application/MonteCarlo.Application.csproj" />
+    <Project Path="src/MonteCarlo.Domain/MonteCarlo.Domain.csproj" />
+    <Project Path="src/MonteCarlo.Infrastructure/MonteCarlo.Infrastructure.csproj" />
+  </Folder>
+</Solution>
